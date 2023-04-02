@@ -5,7 +5,13 @@ public class Main {
         HaitiHome a=new HaitiHome();
         a.address="5529 nw 4";
 
+
         BoysRoom mimi=new BoysRoom();
         mimi.pillow="blue";
+
+        GirlRoom ana=new GirlRoom();
+        ana.bed="full";
+        ana.desk="working table";
+
     }
 }
